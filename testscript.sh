@@ -5,4 +5,4 @@ echo "$NUMBER"
 echo "i have a commit"
 
 echo "this was run automagically"
-echo "my name is"
+echo "my name is kbrom"
